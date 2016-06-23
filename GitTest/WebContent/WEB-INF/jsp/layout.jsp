@@ -7,7 +7,7 @@
 <title><tiles:insertAttribute name="title" ignore="true" /></title>
 <style>
 	body {
-		font-family: sans-serif, Arial;
+		font-family: sans-serif, Arial,verdana;
 	}
 </style>
 </head>
