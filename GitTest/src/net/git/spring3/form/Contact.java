@@ -1,3 +1,4 @@
+//This is Contact Class.
 package net.git.spring3.form;
 
 public class Contact {
